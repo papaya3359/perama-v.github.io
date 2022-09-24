@@ -5,7 +5,7 @@ permalink: /cairo/examples/hello_world/
 toc: false
 ---
 
-The Cairo comiler knows that a program is a contract
+The Cairo compiler knows that a program is a contract
 if it has `%lang starknet` at the top.
 
 In Cairo, each number is a `felt` (field element -> "F EL T").
